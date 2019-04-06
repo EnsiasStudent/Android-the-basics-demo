@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/normal_mode"
+        android:title="Normal Mode"
+        app:showAsAction="never"/>
+    <item android:id="@+id/hybrid_mode"
+        android:title="Hybrid Mode"
+        app:showAsAction="never"/>
+    <item android:id="@+id/satellite_mode"
+        android:title="Satellite Mode"
+        app:showAsAction="never"/>
+    <item android:id="@+id/Terrain_Mode"
+        android:title="Terrain Mode"
+        app:showAsAction="never"/>
+    <item android:id="@+id/None_Mode"
+        android:title="None Mode"
+        app:showAsAction="never"/>
+</menu>

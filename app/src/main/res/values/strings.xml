@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TP4</string>
+    <string name="name">Name</string>
+    <string name="desc">Description</string>
+</resources>
