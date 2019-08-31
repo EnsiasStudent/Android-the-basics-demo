@@ -1,4 +1,4 @@
- # Basic Android App
+ # Tutorial: Starting mobile development with Android Overview
  **In this project we will see a variety of tools as:** 
  - **Recycle View**
  - **Item Decorator**
